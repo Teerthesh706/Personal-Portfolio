@@ -1,18 +1,12 @@
 # Personal Portfolio Website
 
-## Video Demo
-
-<https://youtu.be/_zj_PQ2lU_0>
-
 ## Description
 
 Hi! I'm Teerthesh
 
-Year = 2023
+ Agra, Uttar Pradesh, India
 
-Home Town = Agra, Uttar Pradesh, India
-
-This is my submission for the final project for CS50x Introduction to Computer Science Course, 2023. My personal portfolio website is a dynamic and visually appealing showcase of my skills, accomplishments, and projects. Built using the latest web technologies, including HTML5, CSS3, and JavaScript, it offers an engaging and interactive experience for visitors.
+ My personal portfolio website is a dynamic and visually appealing showcase of my skills, accomplishments, and projects. Built using the latest web technologies, including HTML5, CSS3, and JavaScript, it offers an engaging and interactive experience for visitors.
 
 ## Key Features
 
